@@ -1,5 +1,7 @@
 # NN-CA2-Shallow-CNN-and-Classification-of-Chest-x-ray-Images
+### 1.Shallow Convolutional Neural Network for Image Classification [Link](#Part-1-Shallow-Convolutional-Neural-Network-for-Image-Classification)
 
+### 2.Chest X-Ray Image Classification for Pneumonia Detection [Link](#Part-2-Chest-X-Ray-Image-Classification-for-Pneumonia-Detection)
 Neural Networks & Deep Learning Course, University of Tehran
 
 # Part 1: Shallow Convolutional Neural Network for Image Classification
@@ -43,7 +45,7 @@ Results show that for MNIST, the model achieves an accuracy of approximately 99.
 
 In conclusion, the SCNNB architecture demonstrates strong performance in image classification tasks, with the potential for further optimization and adaptation to different datasets.
 
-# Chest X-Ray Image Classification for Pneumonia Detection
+# Part 2: Chest X-Ray Image Classification for Pneumonia Detection
 
 This repository contains code for classifying chest X-ray images to detect pneumonia. The code is based on the following research article:
 
