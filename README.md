@@ -2,7 +2,6 @@
 ### 1.Shallow Convolutional Neural Network for Image Classification [Link](#Part-1-Shallow-Convolutional-Neural-Network-for-Image-Classification)
 
 ### 2.Chest X-Ray Image Classification for Pneumonia Detection [Link](#Part-2-Chest-X-Ray-Image-Classification-for-Pneumonia-Detection)
-Neural Networks & Deep Learning Course, University of Tehran
 
 # Part 1: Shallow Convolutional Neural Network for Image Classification
 
